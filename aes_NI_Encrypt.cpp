@@ -5,12 +5,7 @@
 
 using namespace std;
 
-/*
-Author: YOUR_NAME_HERE, username@fit.cvut.cz
-Template: Jiri Bucek 2017
-AES specification:
-http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf
-*/
+
 
 // **************** AES  functions ****************
 uint8_t wbyte(uint32_t w, int pos) 

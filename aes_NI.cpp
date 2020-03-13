@@ -5,12 +5,6 @@
 
 using namespace std;
 
-/*
-Author: YOUR_NAME_HERE, username@fit.cvut.cz
-Template: Jiri Bucek 2017
-AES specification:
-http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf
-*/
 
 // **************** AES  functions ****************
 inline __m128i AES_help (__m128i temp1, __m128i temp2)     
